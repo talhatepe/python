@@ -1,6 +1,6 @@
 # Pub/Sub
 
-### •Publisher (pub.py):s
+### •Publisher (pub.py):
 
 ```python
 from flask import Flask, request, jsonify, abort
